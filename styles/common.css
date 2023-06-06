@@ -18,3 +18,11 @@ body {
 .right{
     float:right;
 }
+.signbtns{
+    background-color:#0000ff;
+    color:white;
+    width:90px;
+    padding:10px;
+    margin:4px;
+    border-color:white;
+}
