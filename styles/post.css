@@ -31,3 +31,49 @@ body {
 .right{
     float:right;
 }
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#postSection {
+    text-align: center;
+    margin: 45px;
+
+}
+
+#postSection h2 {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+
+}
+[contenteditable]{
+    outline: 1px solid red;
+}
+
+#postSection button {
+    background-color: rgb(213, 14, 100);
+    color: white;
+    padding: 10px;
+    width: 100px;
+}
+
+#postSection #paraText {
+    background-color: white;
+    color: black;
+    text-align: justify;
+
+}
+
+#postSection input {
+    padding: 10px;
+    width: 30%;
+
+}
+
+#name {
+    background-color: white;
+    color: black;
+}
